@@ -1,2 +1,2 @@
 # knowledgeBase
-solutions to solved tasks
+solutions to various tasks
